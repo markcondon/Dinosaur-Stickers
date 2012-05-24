@@ -1,0 +1,1 @@
+In order to use Dinosaur Stickers simply drag the dino.js file as well as the dinosaurs folder to your website root. Include the dino.js file in your website and run the function function generateDino() and you'll be having fun in no time!
